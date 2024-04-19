@@ -1,9 +1,10 @@
 <h1>Hey There,I’m @aaanishaa 👋 </h1>
 <h3>I am a sophomore learning to grow every day! </h3>
 <hr>
-- 👀 I’m interested in DSA and Web Dev
-- 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 👀 I’m interested in DSA and Web Dev <br>
+- 🌱 I’m currently learning UI/UX <br>
+- 💞️ I’m looking to collaborate on Web Development Projects <br>
+<hr> 
 - 📫 How to reach me: connect with me on LinkedIn https://www.linkedin.com/in/anisha-rawat-0a1112259/
 
 <!---
