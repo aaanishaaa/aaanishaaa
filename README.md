@@ -2,8 +2,8 @@
 - 👀 I’m interested in DSA and Web Dev
 - 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: connect with me on LinkedIn https://www.linkedin.com/in/anisha-rawat-0a1112259/
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I really really like mangoes
 
 <!---
