@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @aaanishaaa
+<h1>Hey There,I’m @aaanishaa 👋 </h1>
+<h3>I am a sophomore learning to grow every day! </h3>
+<hr>
 - 👀 I’m interested in DSA and Web Dev
 - 🌱 I’m currently learning UI/UX
 - 💞️ I’m looking to collaborate on Web Development Projects
