@@ -1,11 +1,11 @@
 <h1>Hey There,I’m @aaanishaa 👋 </h1>
-<h3 align="center">I am a sophomore learning to grow every day!/h3>
+<h3>I am a sophomore learning to grow every day!/h3>
 
 - 🌱 I’m currently learning **Solidity, Advanced Python, Advanced Kubernetes, Docker**
 
 - 💬 Ask me about **React, Tailwind, Python**
 
-- 📫 How to reach me **anishaworks21@gmail.com**
+- 📫 Reach me through **anishaworks21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
