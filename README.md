@@ -1,5 +1,5 @@
 <h1>Hey There, I’m @aaanishaa 👋 </h1>
-<h3>I am a sophomore learning to grow every day!</h3>
+<h3>I am a junior (3rd Year) learning to grow every day!</h3>
 
 - 🌱 I’m currently learning **Solidity, Advanced Python, Advanced Kubernetes, Docker**
 
