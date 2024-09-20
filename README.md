@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Solidity, Advanced Python, Advanced Kubernetes, Docker**
 
-- 💬 Ask me about **React, Tailwind, Python**
+- 💬 Ask me about **React, Tailwind, Python, Blockchain**
 
 - 📫 Reach me through **anishaworks21@gmail.com**
 
