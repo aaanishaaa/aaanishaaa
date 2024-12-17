@@ -1,6 +1,5 @@
 <h1>Hey There, I’m @aaanishaa 👋 </h1>
 <h3>I am a junior (3rd Year) learning to grow every day!</h3>
-<p><img src="https://tenor.com/en-GB/view/mario-coins-platformer-indie-games-collectables-gif-10195332303543676354"></p>
 - 🌱 I’m currently learning **Solidity, Advanced Python, Advanced Kubernetes, Docker**
 
 - 💬 Ask me about **React, Tailwind, Python, Blockchain**
