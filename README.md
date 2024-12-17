@@ -1,5 +1,6 @@
 <h1>Hey There, I’m @aaanishaa 👋 </h1>
 <h3>I am a junior (3rd Year) learning to grow every day!</h3>
+<div class="tenor-gif-embed" data-postid="10195332303543676354" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mario-coins-platformer-indie-games-collectables-gif-10195332303543676354">Mario Coins Sticker</a>from <a href="https://tenor.com/search/mario-stickers">Mario Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🌱 I’m currently learning **Solidity, Advanced Python, Advanced Kubernetes, Docker**
 
