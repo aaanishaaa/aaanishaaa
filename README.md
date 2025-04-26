@@ -2,7 +2,7 @@
 <h3>I am a junior (3rd Year) learning to grow every day!</h3>
 <ul>
 <li>🌱 I’m currently learning Solidity, Advanced Python, Advanced Kubernetes</li>
-<li>💬 Ask me about React, Tailwind, Python, Blockchain</li>
+<li>💬 Ask me about MERN, Cloud, Python, Blockchain</li>
 <li> 📫 Reach me through anishaworks21@gmail.com </li>
 </ul>
 
