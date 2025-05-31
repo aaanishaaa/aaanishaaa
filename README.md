@@ -5,6 +5,12 @@
 <li>💬 Ask me about MERN, Cloud, Python, Blockchain</li>
 <li> 📫 Reach me through anishaworks21@gmail.com </li>
 </ul>
+<h3 align="left">Check out my Blog</h3>
+<p align="left">
+  <a href="[https://your-blog-link.com](https://dev.to/aaanishaaa)" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Blog-Read%20My%20Articles-orange?style=for-the-badge&logo=dev.to" alt="Blog" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
