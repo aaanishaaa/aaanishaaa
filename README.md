@@ -1,9 +1,26 @@
-<h1>Hey There, I’m @aaanishaa 👋 </h1>
-<h3>I am a junior (3rd Year) learning to grow every day!</h3>
+<img src="https://github.com/user-attachments/assets/11eba9b1-4b95-480d-bfd1-889a3c9e9b5f" width="2000"/>
+<h1>Hey there, I'm <span style="color:#fa8bff;">@aaanishaa</span> 👋</h1>
+
+<h3>
+  🚀 3rd Year Junior | Passionate About Continuous Growth & Tech Exploration!
+</h3>
+
 <ul>
-<li>🌱 I’m currently learning Solidity, Advanced Python, Advanced Kubernetes</li>
-<li>💬 Ask me about MERN, Cloud, Python, Blockchain</li>
-<li> 📫 Reach me through anishaworks21@gmail.com </li>
+  <li>🌱 <strong>Currently Learning:</strong> Solidity, Advanced Python, Advanced Kubernetes</li>
+  <li>💡 <strong>Ask Me About:</strong> MERN Stack, Cloud Computing, Python</li>
+  <li>🎯 <strong>2025 Goals:</strong> Contribute to open-source, build a full-stack DApp, achieve AWS certification</li>
+  <li>📫 <strong>Let's Connect:</strong> <a href="mailto:anishaworks21@gmail.com">anishaworks21@gmail.com</a></li>
+</ul>
+
+<h3>🌟 About Me</h3>
+<p>
+  I love building things that make a difference! I'm always eager to learn, collaborate, and innovate. Outside of coding, you'll find me exploring new tech trends, painting, blogging, and connecting with the developer community.
+</p>
+
+<h3>🚩 Projects & Highlights</h3>
+<ul>
+  <li>🔗 <strong>Portfolio Website:</strong> <a href="https://e-portfolio-ivory-nine.vercel.app/" target="_blank">Here</a></li>
+  <li>🛠️ <strong>Recent Projects:</strong> Heartbyte, Traveling Buddy </li>
 </ul>
 <h3 align="left">Check out my Blog</h3>
 <p align="left">
@@ -15,7 +32,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anisharawr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anisharawr" height="30" width="40" /></a>
-<a href="https://instagram.com/anisha.r_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anisha.r_21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aaanishaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaanishaaa" height="30" width="40" /></a>
 </p>
 
