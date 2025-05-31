@@ -7,7 +7,7 @@
 </ul>
 <h3 align="left">Check out my Blog</h3>
 <p align="left">
-  <a href="[https://your-blog-link.com](https://dev.to/aaanishaaa)" target="blank">
+  <a href="https://dev.to/aaanishaaa" target="blank">
     <img align="center" src="https://img.shields.io/badge/Blog-Read%20My%20Articles-orange?style=for-the-badge&logo=dev.to" alt="Blog" />
   </a>
 </p>
